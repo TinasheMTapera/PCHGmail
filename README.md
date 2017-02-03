@@ -14,3 +14,5 @@ In addition to learning a great deal about Pythonic programming and practice, I 
 * Simple NLP
 * Latent Dirichlet Allocation
 * The power of Pandas
+
+You can read the more verbose (and insightful) walkthrough on my Quora blog [here](https://dataintensive.quora.com/Data-Dive-The-Peer-Counseling-Helpline-Gmail-Archive)
